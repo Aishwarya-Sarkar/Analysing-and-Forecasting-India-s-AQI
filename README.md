@@ -1,4 +1,4 @@
-# EDA-COVID-19-s-impact-on-India-s-AQI
+# COVID-19-s-impact-on-India-s-AQI
 The air quality index (AQI) is an index for reporting air quality on a daily basis. A low AQI indicates good air quality and low levels of pollution while a higher AQI suggests increased concentrations of pollutants in the air which is extremely detrimental to human health.
 
 The air quality index is composed of 8 pollutants ((PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb)
