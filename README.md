@@ -18,4 +18,4 @@ Our main objectives in this notebook:
 * Finding the most polluted cities in recent years and analysing the levels of pollutants here
 * Understanding the impact of COVID-19 induced lockdowns on Air Quality in some of the major cities : analysing which cities underwent the most drastic improvement in Air Quality and which cities showed a spike in AQI levels inspite of a stringent lockdown
 
-We'll also be performing time series forecasting with SARIMA. We'll build a model and then try to predict the AQI values into the future.
+We'll also be performing time series forecasting with SARIMA- We'll build a model and then try to predict the AQI values into the future.
